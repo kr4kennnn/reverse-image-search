@@ -1,2 +1,2 @@
-# reverse-image-search
- This is the Second Assignment for my Image Processing class
+# Reverse Image Search
+ This is my Second Assignment for Image Processing class
